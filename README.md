@@ -2,15 +2,15 @@
 
 ## Project Overview
 
-In this project, you'll implement SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world! You’ll combine what you know about robot sensor measurements and movement to create a map of an environment from only sensor and motion data gathered by a robot, over time. SLAM gives you a way to track the location of a robot in the world in real-time and identify the locations of landmarks such as buildings, trees, rocks, and other world features. This is an active area of research in the fields of robotics and autonomous systems. 
+In this project, I implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. I combined what we know about robot sensor measurements and movement to create a map of an environment from only sensor and motion data gathered by a robot, over time. SLAM gives a way to track the location of a robot in the world in real-time and identify the locations of landmarks such as buildings, trees, rocks, and other world features. This is an active area of research in the fields of robotics and autonomous systems. 
 
-*Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using *only* sensor and motion data collected by that robot. This is just one example for a 50x50 grid world; in your work you will likely generate a variety of these maps.*
+*Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using *only* sensor and motion data collected by that robot.*
 
 <p align="center">
   <img src="./images/robot_world.png" width=50% height=50% />
 </p>
 
-The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures:
+The project is broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures:
 
 __Notebook 1__ : [1. Robot Moving and Sensing.ipynb](https://github.com/mikethwolff/Computer-Vision-Landmark-Detection-Tracking-SLAM/blob/main/1.%20Robot%20Moving%20and%20Sensing.ipynb)
 
@@ -21,7 +21,7 @@ __Notebook 3__ : [3. Landmark Detection and Tracking.ipynb](https://github.com/m
 
 ## Project Instructions
 
-All of the starting code and resources you'll need to compete this project are in this Github repository. Before you can get started coding, you'll have to make sure that you have all the libraries and dependencies required to support this project. If you have already created a `cv-nd` environment for [exercise code](https://github.com/udacity/CVND_Exercises), then you can use that environment! If not, instructions for creation and activation are below.
+All of the starting code and resources needed to compete this project are in this Github repository. We'll have to make sure that all the libraries and dependencies required to support this project are installed. I have already created a `cv-nd` environment for [exercise code](https://github.com/mikethwolff/CVND_Exercises), and can use that environment! Instructions for creation and activation are below.
 
 ### Local Environment Instructions
 
