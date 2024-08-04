@@ -1,4 +1,4 @@
-# Landmark Detection & Robot Tracking (SLAM)
+# Computer Vision - Landmark Detection & Robot Tracking (SLAM)
 
 ## Project Overview
 
