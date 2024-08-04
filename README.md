@@ -12,7 +12,7 @@ In this project, you'll implement SLAM (Simultaneous Localization and Mapping) f
 
 The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures:
 
-__Notebook 1__ : [1. Robot Moving and Sensing.ipynb](1. Robot Moving and Sensing.ipynb)
+__Notebook 1__ : [1. Robot Moving and Sensing.ipynb](https://github.com/mikethwolff/Computer-Vision-Landmark-Detection-Tracking-SLAM/blob/main/1.%20Robot%20Moving%20and%20Sensing.ipynb)
 
 __Notebook 2__ : [2. Omega and Xi, Constraints.ipynb](2. Omega and Xi, Constraints.ipynb)
 
