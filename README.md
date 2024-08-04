@@ -14,9 +14,9 @@ The project will be broken up into three Python notebooks; the first two are for
 
 __Notebook 1__ : [1. Robot Moving and Sensing.ipynb](https://github.com/mikethwolff/Computer-Vision-Landmark-Detection-Tracking-SLAM/blob/main/1.%20Robot%20Moving%20and%20Sensing.ipynb)
 
-__Notebook 2__ : [2. Omega and Xi, Constraints.ipynb](2. Omega and Xi, Constraints.ipynb)
+__Notebook 2__ : [2. Omega and Xi, Constraints.ipynb](https://github.com/mikethwolff/Computer-Vision-Landmark-Detection-Tracking-SLAM/blob/main/2.%20Omega%20and%20Xi%2C%20Constraints.ipynb)
 
-__Notebook 3__ : [3. Landmark Detection and Tracking.ipynb](3. Landmark Detection and Tracking.ipynb)
+__Notebook 3__ : [3. Landmark Detection and Tracking.ipynb](https://github.com/mikethwolff/Computer-Vision-Landmark-Detection-Tracking-SLAM/blob/main/3.%20Landmark%20Detection%20and%20Tracking.ipynb)
 
 
 ## Project Instructions
