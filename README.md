@@ -1,6 +1,6 @@
 # Computer Vision - Landmark Detection & Robot Tracking (SLAM)
 
-This repository lists one of my projects and findings as part of Udacity´s Computer Vision Nanodegree.
+This repository lists my findings of one project of Udacity´s Computer Vision Nanodegree.
 
 ## Project Overview
 
